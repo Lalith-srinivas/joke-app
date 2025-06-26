@@ -19,4 +19,4 @@ A simple and fun web app that fetches random jokes from a public API using JavaS
 
 ## ✍️ Author
 P. Lalith Srinivas  
-[GitHub Profile](https://github.com/yourusername)
+
